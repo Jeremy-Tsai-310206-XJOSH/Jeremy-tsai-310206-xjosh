@@ -3,7 +3,7 @@
 <div align="center">
 <h3>
 
-<h4 align="center">Here's a site about me and my pets: <br>https://isabel-lifu-211207-xprado.github.io/T1-HTML-Assignment/About_the_author.html<br><hr></h4>
+<h4 align="center">Here's a site about Isabel and her pets: <br>https://isabel-lifu-211207-xprado.github.io/T1-HTML-Assignment/About_the_author.html<br><hr></h4>
 
 <p align="center">
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://gpvc.arturio.dev/Isabel-Lifu-211207-XPrado"></a> <!--Profile views-->
@@ -11,7 +11,7 @@
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/Shoutout%20to-TurnipGuy30-navy"></a> <!--Shoutout for Johnny!-->
 	<br> <h3 align="center">Please visit my organisation's homepage! => https://xpavilion.github.io/<br></h3>
 	<p align="center"><h3 align="center">Supporters:<br></h3>
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/-Isabel--Lifu--211207--XPrado-333333?style-flat&logo=github"></a>
+	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/-Isabel--Lifu--211207--xprado-333333?style-flat&logo=github"></a>
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/-TurnipGuy30-333333?style-flat&logo=github"></a>
 	<a href="https://github.com/hacking-mudkip"><img src="https://img.shields.io/badge/-hacking--mudkip-333333?style-flat&logo=github"></a>
 	<a href="https://github.com/Jeremy-Tsai-310206-XJOSH"><img src="https://img.shields.io/badge/-Jeremy--Tsai--310206--XJOSH-333333?style-flat&logo=github"></a>
@@ -33,14 +33,14 @@
 
 <div align="left">
 	
-- 🔭 I’m currently working on Trigonometric Identities' proof using exponential complex numbers in the Polar system!
+- 🔭 Isabel's currently working on Trigonometric Identities' proof using exponential complex numbers in the Polar system!
 
-- 💻 All of my projects are available in my classroom of Math books I've written! Only about 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986828034825% of my work is done in [Desmos](https://www.desmos.com/calculator/ir7owwjx39)! Here are some links to my latest projects: <br>@https://www.desmos.com/calculator/ul7l7ds5ce, ![image](https://user-images.githubusercontent.com/79883837/119249654-a415f100-bbdd-11eb-90d4-bde924cbeeca.png)<br>@https://www.desmos.com/calculator/n55td6dbjc, ![image](https://user-images.githubusercontent.com/79883837/119249679-d7f11680-bbdd-11eb-87a2-84e9c1c5175b.png)<br>@https://www.desmos.com/calculator/amfi3ztxuz, ![image](https://user-images.githubusercontent.com/79883837/119249699-ff47e380-bbdd-11eb-832d-d70dc0ccabc3.png)<br>@https://www.desmos.com/calculator/iupyl2sot3, ![image](https://user-images.githubusercontent.com/79883837/119249726-33bb9f80-bbde-11eb-8839-e00d1ea0196f.png)
+- 💻 All of her projects are available in her classroom of Math books that she's written! Only about 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986828034825% of her work is done in [Desmos](https://www.desmos.com/calculator/ir7owwjx39)! Here are some links to her latest projects: <br>@https://www.desmos.com/calculator/ul7l7ds5ce, ![image](https://user-images.githubusercontent.com/79883837/119249654-a415f100-bbdd-11eb-90d4-bde924cbeeca.png)<br>@https://www.desmos.com/calculator/n55td6dbjc, ![image](https://user-images.githubusercontent.com/79883837/119249679-d7f11680-bbdd-11eb-87a2-84e9c1c5175b.png)<br>@https://www.desmos.com/calculator/amfi3ztxuz, ![image](https://user-images.githubusercontent.com/79883837/119249699-ff47e380-bbdd-11eb-832d-d70dc0ccabc3.png)<br>@https://www.desmos.com/calculator/iupyl2sot3, ![image](https://user-images.githubusercontent.com/79883837/119249726-33bb9f80-bbde-11eb-8839-e00d1ea0196f.png)
 
-- 🥇 I'm most experienced with Vector Calculus and Further Graphing Techniques!
+- 🥇 Isabel's most experienced with Vector Calculus and Further Graphing Techniques!
 
-- 🌱 I’m currently learning how to prove all sorts of cool trigonometric identities using complex numbers in their polar form! I'm looking forward to learn how they can be applied in matrices!
-- 🏆 If you have any questions you can't solve within the year 11 Specialist Mathematics curriculum for Queensland, ask [me](mailto:ba004745@bac.qld.edu.au) or [Prado](mailto:pradolifu@gmail.com)! 
+- 🌱 Isabel's currently learning how to prove all sorts of cool trigonometric identities using complex numbers in their polar form! She's looking forward to learn how they can be applied in matrices!
+- 🏆 If you have any questions you can't solve within the year 11 Specialist Mathematics curriculum for Queensland, ask [Isabel](mailto:ba004745@bac.qld.edu.au) or [Prado](mailto:pradolifu@gmail.com)! 
 </div>
 
 <p align="center">
@@ -57,7 +57,7 @@
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado/T2-CSS-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabel-Lifu-211207-XPrado&repo=T2-CSS-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 </p>
 <hr>
-<details><summary>About Me</summary>
+<details><summary>About Isabel</summary>
 <hr>
 <h3>About Isabel (Me):</h3>
 <h4>Date of Birth: 21st December 2007<br>
