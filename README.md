@@ -56,6 +56,7 @@
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado/T1-HTML-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabel-Lifu-211207-XPrado&repo=T1-HTML-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado/T2-CSS-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabel-Lifu-211207-XPrado&repo=T2-CSS-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 </p>
+ <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Jeremy-tsai-310206-xjosh&theme=github">
 <hr>
 <details><summary>About Isabel</summary>
 <hr>
@@ -108,6 +109,7 @@ Name history: Her fur has a silverish lining on the outside, visible in most lig
 </div>
 
 <h3 align=center>I love you all so much!!! Thank you for following me!</h3>
+
 <!--
   ~ Special thanks to my friend TurnipGuy30 for initialising my profile's ReadME! - Account owner, Isabel ~
 -->
