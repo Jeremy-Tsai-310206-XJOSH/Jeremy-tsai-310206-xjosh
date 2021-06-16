@@ -143,7 +143,7 @@ A random screenshot taken today:<br><br>
 ![image](https://user-images.githubusercontent.com/79883837/122158665-63458b00-ceb0-11eb-81e2-8d226cea2500.png)
 
 Here are some links to my latest projects: <br><br>@https://www.desmos.com/calculator/jq45wqtbwj, ![image](https://user-images.githubusercontent.com/79883837/119249679-d7f11680-bbdd-11eb-87a2-84e9c1c5175b.png)<br><br>@https://www.desmos.com/calculator/rt7ppxlzrt, ![image](https://user-images.githubusercontent.com/79883837/119249699-ff47e380-bbdd-11eb-832d-d70dc0ccabc3.png)<br><br>@https://www.desmos.com/calculator/f4dz8fmr0j, ![image](https://user-images.githubusercontent.com/79883837/119249726-33bb9f80-bbde-11eb-8839-e00d1ea0196f.png)<br>
-Note: I am not Isabel Lifu, but one of her friends. To those of you who are questioning the MIT License of her profile repo, she has given me permission to reuse her profile information. Yours sincerely, Jeremy Tsai
+Note: I am not Isabel Lifu, but one of her supporters. To those of you who are questioning the MIT License of her profile repo, she has granted me permission to reuse her profile information. Thanks for noting this!
 
 <!--
   ~ Special thanks to my friend TurnipGuy30 for initialising my profile's ReadME! - Account owner, Isabel ~
