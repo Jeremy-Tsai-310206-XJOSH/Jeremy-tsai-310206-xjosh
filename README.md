@@ -1,4 +1,4 @@
-<h1 align="center"> ♡ Jeremy ∯Calculus<sup>∞</sup>⊉⊷ Tsai ♡</h1>
+<h1 align="center"> ♡ 𝓘𝓼𝓪𝓫𝓮𝓵 ∯𝓒𝓪𝓵𝓬𝓾𝓵𝓾𝓼<sup>∞</sup>⊉⊷ 𝓛𝓲𝓯𝓾 ♡</h1>
 <h3 align="center">Welcome to my profile!</h3><hr>
 <div align="center"> 
 <h3>
@@ -19,22 +19,27 @@
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/Shoutout%20to-TurnipGuy30-navy"></a> <!--Shoutout for Johnny!-->
 	<br> <h3 align="center">Please visit my organisation's homepage! => https://xpavilion.github.io/<br></h3>
 	<p align="center"><h3 align="center">Supporters:<br></h3>
-	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/-TurnipGuy30-333333?style-flat&logo=github"></a>
-	<a href="https://github.com/hacking-mudkip"><img src="https://img.shields.io/badge/-hacking--mudkip-333333?style-flat&logo=github"></a>
-	<a href="https://github.com/Jeremy-Tsai-310206-XJOSH"><img src="https://img.shields.io/badge/-Jeremy--Tsai--310206--XJOSH-333333?style-flat&logo=github"></a>
-	<a href="https://github.com/Digital-Technologies"><img src="https://img.shields.io/badge/-Digital--Technologies-333333?style-flat&logo=github"></a>
-	<a href="https://github.com/MuLKy-bot"><img src="https://img.shields.io/badge/-MuLKy--bot-333333?style-flat&logo=github"></a>
+	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/-TurnipGuy30-333333?style-flat&logo=github"></a> <!--Johnny-->
+	<a href="https://github.com/hacking-mudkip"><img src="https://img.shields.io/badge/-hacking--mudkip-333333?style-flat&logo=github"></a> <!--Natascha-->
+	<a href="https://github.com/Jeremy-Tsai-310206-XJOSH"><img src="https://img.shields.io/badge/-Jeremy--Tsai--310206--XJOSH-333333?style-flat&logo=github"></a> <!--Jeremy-->
+	<a href="https://github.com/valerimatical"><img src="https://img.shields.io/badge/-Valerimatical-333333?style-flat&logo=github"></a> <!--Valerie-->
+	<a href="https://github.com/Digital-Technologies"><img src="https://img.shields.io/badge/-Digital--Technologies-333333?style-flat&logo=github"></a> <!--Mr. Henley-->
+	<a href="https://github.com/specialist-mathematics"><img src="https://img.shields.io/badge/-specialist--mathematics-333333?style-flat&logo=github"></a> <!--SM-->
+	<a href="https://github.com/teethtastegood"><img src="https://img.shields.io/badge/-teethtastegood-333333?style-flat&logo=github"></a> <!--Charlotte-->
+	<a href="https://github.com/brizyyy"><img src="https://img.shields.io/badge/-brizyyy-333333?style-flat&logo=github"></a> <!--Brianna-->
+	<a href="https://github.com/lahonathon"><img src="https://img.shields.io/badge/-lahonathon-333333?style-flat&logo=github"></a> <!--Lh(n)-->
+	<a href="https://github.com/MuLKy-bot"><img src="https://img.shields.io/badge/-MuLKy--bot-333333?style-flat&logo=github"></a> <!--Samuel-->
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/By-Isabel--Lifu-aqua?logo=spotify"></a> <!--I pioneered spotify! I am an entrepreneur!-->
 </p>
 
 <p align="center"> <h3 align="center"> Apps/Languages/Prados that I use: </h3>
-	<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"> <!--GitHub-->
-	<img src="https://img.shields.io/badge/-Chromium-333333?style=flat&logo=Google%20Chrome"> <!--Chromium-->
-	<img src="https://img.shields.io/badge/-Atom-333333?logo=atom&logoColor=lightgreen"> <!--Atom-->
-	<img src="https://img.shields.io/badge/-Dreamweaver-333333?style=flat&logo=Adobe%20Dreamweaver"> <!--Dreamweaver-->
-	<img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"> <!--Git-->
-	<img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5"> <!--HTML-->
-	<img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"> <!--CSS-->
+	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"></a> <!--GitHub-->
+	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/-Chromium-333333?style=flat&logo=Google%20Chrome"></a> <!--Chromium-->
+	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/-Atom-333333?logo=atom&logoColor=lightgreen"></a> <!--Atom-->
+	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/-Dreamweaver-333333?style=flat&logo=Adobe%20Dreamweaver"> <!--Dreamweaver--></a>
+	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"></a> <!--Git-->
+	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5"></a> <!--HTML-->
+	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"></a> <!--CSS-->
 
 </p>
 
@@ -51,11 +56,11 @@
 </div>
 
 <p align="center">
-	<a href=""><img src="https://hacked-github-stat-trophies-all-unlocked.vercel.app/?username=egoist&column=6&theme=dracula"></a><br><br> <!--Trophies-->
-	<img src="https://github-readme-stats.vercel.app/api?username=egoist&show_icons=true&locale=en&theme=tokyonight&custom_title=♡%20Isabel%20Lifu%20♡%27s%20GitHub%20Stats"><br><br>
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Isabel_Lifu&layout=compact&theme=tokyonight&length=10"><br><br>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=egoist&theme=tokyonight"><br><br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ihaveamac&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&hide=red,rebol"><br><br>
+	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://hacked-github-stat-trophies-all-unlocked.vercel.app/?username=egoist&column=6&theme=dracula"></a><br><br> <!--Trophies-->
+	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://github-readme-stats.vercel.app/api?username=egoist&show_icons=true&locale=en&theme=tokyonight&custom_title=♡%20Isabel%20Lifu%20♡%27s%20GitHub%20Stats"></a><br><br>
+	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Isabel_Lifu&layout=compact&theme=tokyonight&length=10"></a><br><br>
+	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://github-readme-streak-stats.herokuapp.com/?user=egoist&theme=tokyonight"></a><br><br>
+	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ihaveamac&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&hide=red,rebol"></a><br><br>
 </p>
 
 <h3 align="center"> School projects for <a href="https://github.com/digital-technologies">Mr Henley</a></h3>
@@ -114,17 +119,41 @@ Name history: Her fur has a silverish lining on the outside (which gave me the m
 		Jeremy Tsai! A true friend whom I appreciate.
 	</details>
 	<hr>
-	<details><summary>About <a href="https://github.com/Mulky-bot/">MuLKy-bot</a></summary>
-		Samuel Garay! He is not a bot LOL
+	<details><summary>About <a href="https://github.com/supernova7/">Supernova7</a></summary>
+		Supernova7! An anonymous user who contributes in many of our private repositories.
 	</details>
-	<hr><details><summary>About <a href="https://github.com/teethtastegood/">teethtastegood</a></summary>
-		Charlotte Tye! She is an awesome friend who loves collaborating with others.
+	<hr>
+	<details><summary>About <a href="https://github.com/teethtastegood/">teethtastegood</a></summary>
+		Charlotte Tye! An awesome friend who loves collaborating with others!
+	</details>
+	<hr>
+	<details><summary>About <a href="https://github.com/brizyyy/">Brizyyy</a></summary>
+		Brianna Cardenas! An incredibly intelligent study buddy!
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/lahonathon/">Lh(n)</a></summary>
-		Lh(n) has requested me to keep their identity anonymous. Sorry!
+		Lh(n)! Yes, the one from XPaVilion!
 	</details>
 	<hr>
+	<details><summary>About <a href="https://github.com/Mulky-bot/">MuLKy-bot</a></summary>
+		Samuel Garay! He is not a bot LOL
+	</details>
+	<hr>
+	<details><summary>About <a href="https://github.com/digital-technologies/">Digital Technologies</a></summary>
+		Mr. J Henley! #Cool #BestTeacher #PassionateForOurFutures #WillingToHelpOut
+	</details>
+	<hr>
+	<details><summary>About <a href="https://github.com/valerimatical/">Valerimatical</a></summary>
+		Valerie! The Fairy-type Gym Leader from Kalos is now helping out in my org XPaVilion!
+	</details>
+	<hr>
+	<details><summary>About <a href="https://github.com/Specialist-mathematics/">Specialist-Mathematics</a></summary>
+		Specialist Mathematics! The best subject in the world! It's just really cool to finally own an account called my favourite subject - I'm so glad it hasn't 		   been taken already on Github! Let's go Specialist Mathematics!!!
+	</details>
+	<hr>
+	<details><summary>About <a href="https://github.com/isabel-lifu/">Isabel-Lifu</a></summary>
+		Obviously, that's me again! My Beta acc.
+	</details>
 	</details>
 <hr>
 
@@ -143,6 +172,7 @@ A random screenshot taken today:<br><br>
 ![image](https://user-images.githubusercontent.com/79883837/122158665-63458b00-ceb0-11eb-81e2-8d226cea2500.png)
 
 Here are some links to my latest projects: <br><br>@https://www.desmos.com/calculator/jq45wqtbwj, ![image](https://user-images.githubusercontent.com/79883837/119249679-d7f11680-bbdd-11eb-87a2-84e9c1c5175b.png)<br><br>@https://www.desmos.com/calculator/rt7ppxlzrt, ![image](https://user-images.githubusercontent.com/79883837/119249699-ff47e380-bbdd-11eb-832d-d70dc0ccabc3.png)<br><br>@https://www.desmos.com/calculator/f4dz8fmr0j, ![image](https://user-images.githubusercontent.com/79883837/119249726-33bb9f80-bbde-11eb-8839-e00d1ea0196f.png)<br>
+
 Note: I am not Isabel Lifu, but one of her supporters. To those of you who are questioning the MIT License of her profile repo, she has granted me permission to reuse her profile information. Thanks for noting this!
 
 <!--
