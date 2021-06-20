@@ -20,15 +20,15 @@
 	<br> <h3 align="center">Please visit my organisation's homepage! => https://xpavilion.github.io/<br></h3>
 	<p align="center"><h3 align="center">Supporters:<br></h3>
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/-TurnipGuy30-333333?style-flat&logo=github"></a> <!--Johnny-->
-	<a href="https://github.com/hacking-mudkip"><img src="https://img.shields.io/badge/-hacking--mudkip-333333?style-flat&logo=github"></a> <!--Natascha-->
+	<a href="https://github.com/hacking-mudkip"><img src="https://img.shields.io/badge/-Hacking--Mudkip-333333?style-flat&logo=github"></a> <!--Natascha-->
 	<a href="https://github.com/Jeremy-Tsai-310206-XJOSH"><img src="https://img.shields.io/badge/-Jeremy--Tsai--310206--XJOSH-333333?style-flat&logo=github"></a> <!--Jeremy-->
 	<a href="https://github.com/valerimatical"><img src="https://img.shields.io/badge/-Valerimatical-333333?style-flat&logo=github"></a> <!--Valerie-->
 	<a href="https://github.com/Digital-Technologies"><img src="https://img.shields.io/badge/-Digital--Technologies-333333?style-flat&logo=github"></a> <!--Mr. Henley-->
-	<a href="https://github.com/specialist-mathematics"><img src="https://img.shields.io/badge/-specialist--mathematics-333333?style-flat&logo=github"></a> <!--SM-->
-	<a href="https://github.com/teethtastegood"><img src="https://img.shields.io/badge/-teethtastegood-333333?style-flat&logo=github"></a> <!--Charlotte-->
-	<a href="https://github.com/brizyyy"><img src="https://img.shields.io/badge/-brizyyy-333333?style-flat&logo=github"></a> <!--Brianna-->
-	<a href="https://github.com/lahonathon"><img src="https://img.shields.io/badge/-lahonathon-333333?style-flat&logo=github"></a> <!--Lh(n)-->
-	<a href="https://github.com/MuLKy-bot"><img src="https://img.shields.io/badge/-MuLKy--bot-333333?style-flat&logo=github"></a> <!--Samuel-->
+	<a href="https://github.com/specialist-mathematics"><img src="https://img.shields.io/badge/-Specialist--Mathematics-333333?style-flat&logo=github"></a> <!--SM-->
+	<a href="https://github.com/teethtastegood"><img src="https://img.shields.io/badge/-Teethtastegood-333333?style-flat&logo=github"></a> <!--Charlotte-->
+	<a href="https://github.com/brizyyy"><img src="https://img.shields.io/badge/-Brizyyy-333333?style-flat&logo=github"></a> <!--Brianna-->
+	<a href="https://github.com/lahonathon"><img src="https://img.shields.io/badge/-LaHonathon-333333?style-flat&logo=github"></a> <!--Lh(n)-->
+	<a href="https://github.com/MuLKy-bot"><img src="https://img.shields.io/badge/-MuLKy--Bot-333333?style-flat&logo=github"></a> <!--Samuel-->
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/By-Isabel--Lifu-aqua?logo=spotify"></a> <!--I pioneered spotify! I am an entrepreneur!-->
 </p>
 
