@@ -3,12 +3,7 @@
 <div align="center"> 
 <h3>
 <p align="center">
-╔══╗─────╔╗────╔╗─╔╗────╔═╗───<br>      
-╚╣╠╝─────║║────║║─║║────║╔╝───<br>
-─║║╔══╦══╣╚═╦══╣║─║║──╔╦╝╚╦╗╔╗<br>
-─║║║══╣╔╗║╔╗║║═╣║─║║─╔╬╬╗╔╣║║║<br>
-╔╣╠╬══║╔╗║╚╝║║═╣╚╗║╚═╝║║║║║╚╝║<br>
-╚══╩══╩╝╚╩══╩══╩═╝╚═══╩╝╚╝╚══╝<br>
+<br>
 </p>
 
 <h4 align="center"><a href="https://isabel-lifu-211207-xprado.github.io/T1-HTML-Assignment/About_the_author.html">Here's</a> a website about me and my pets. <br><hr></h4>
