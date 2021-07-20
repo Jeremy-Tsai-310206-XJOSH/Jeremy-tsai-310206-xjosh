@@ -1,4 +1,4 @@
-<h1 align="center"> ♡ 𝓘𝓼𝓪𝓫𝓮𝓵 ∯𝓒𝓪𝓵𝓬𝓾𝓵𝓾𝓼<sup>∞</sup>⊉⊷ 𝓛𝓲𝓯𝓾 ♡</h1>
+<h1 align="center">jeremy</h1>
 <h3 align="center">Welcome to my profile!</h3><hr>
 <div align="center"> 
 <h3>
